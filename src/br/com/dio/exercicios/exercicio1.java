@@ -22,5 +22,7 @@ public class exercicio1 {
 
       System.out.println("Hello, " + name + ". You're " + age + " years old.");
     }
+
+    scan.close();
   }
 }
